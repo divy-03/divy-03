@@ -1,12 +1,12 @@
 # Hi there, I'm Divy! 👋
 
 ## About Me 🚀
-I'm a budding developer passionate about competitive programming and web development. I have a knack for creating React apps and developing basic websites and APIs using the MERN stack. Currently, I'm on a journey to explore more in web development, including application and DevOps. I'm also eager to dive into exciting technologies like Three.js and Next.js.
+I'm a budding developer passionate about competitive programming and web development. I have a knack for creating React apps and developing basic websites and APIs using the MERN stack. Currently, I'm on a journey to explore more in web development, including application and DevOps. Advancing my competitive programming skills and I'm also eager to dive into exciting technologies like Three.js and Next.js.
 
 ## Skills 🛠️
-- Programming Languages: JavaScript, HTML, CSS
+- Programming Languages: JavaScript, HTML, CSS, C++, Python
 - Web Development: React.js, Node.js, Express.js, MongoDB
-- Competitive Programming: LeetCode (14 solved), Codeforces (Rating: 980, 140 problems solved)
+- Competitive Programming: Codeforces (Rating: 980, 140 problems solved)
 
 ## Projects 🚧
 Here are some projects I've worked on:
