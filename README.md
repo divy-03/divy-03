@@ -6,7 +6,7 @@ I'm a budding developer passionate about competitive programming and web develop
 ## Skills 🛠️
 - Programming Languages: JavaScript, HTML, CSS, C++, Python
 - Web Development: React.js, Node.js, Express.js, MongoDB
-- Competitive Programming: Codeforces (Rating: 980, 140 problems solved)
+- Competitive Programming: Codeforces (140+ problems solved)
 
 ## Projects 🚧
 Here are some projects I've worked on:
