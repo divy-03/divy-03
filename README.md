@@ -11,7 +11,7 @@ I'm a budding developer passionate about competitive programming and web develop
 ## Projects 🚧
 Here are some projects I've worked on:
 - [Portfolio](https://www.portfolio-divy.netlify.app) - A simple Portfolio website
-- [Tictactoe](https://www.tictactoe-excl.netlify.app) - Website where you can play tictactoe
+- [Tictactoe](https://excl-tictactoe.netlify.app/) - Website where you can play tictactoe
 
 ## Learning Goals 📚
 I'm currently focusing on:
