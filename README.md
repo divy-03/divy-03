@@ -5,12 +5,12 @@ I'm a budding developer passionate about competitive programming and web develop
 
 ## Skills 🛠️
 - Programming Languages: JavaScript, HTML, CSS, C++, Python
-- Web Development: React.js, Node.js, Express.js, MongoDB
-- Competitive Programming: Codeforces (140+ problems solved)
+- Web Development: React.js, Node.js, Express.js, MongoDB, TypeScript, Redux.
+- Competitive Programming: Codeforces (240+ problems solved)
 
 ## Projects 🚧
 Here are some projects I've worked on:
-- [Portfolio](https://www.portfolio-divy.netlify.app) - A simple Portfolio website
+- [Portfolio](https://www.portfolio-excl.netlify.app) - A simple Portfolio website
 - [Tictactoe](https://excl-tictactoe.netlify.app/) - Website where you can play tictactoe
 
 ## Learning Goals 📚
