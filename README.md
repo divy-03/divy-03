@@ -1,35 +1,33 @@
-# Divy Pathak 👋
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## About Me 🚀
-I'm a budding developer with a passion for competitive programming and web development. I excel at building React applications and developing websites and APIs using the MERN stack. Currently, I'm exploring more in the realms of web development, including application and DevOps practices, while advancing my competitive programming skills. I'm also excited to dive into technologies like Three.js and Next.js.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divy-03&label=Profile%20views&color=0e75b6&style=flat" alt="divy-03" /> </p>
 
-## Skills 🛠️
-- **Programming Languages**: JavaScript, HTML, CSS, C++, Python, TypeScript, Java
-- **Web Development**: React.js, Redux, Node.js, Express.js, MongoDB, TypeScript, Sass, React Native, Developing APIs, Frontend & Backend Development
-- **Miscellaneous**: Machine Learning, Linux, Data Structures and Algorithms, MySQL, Database Management Systems, Computer Networks, Operating Systems
-- **Competitive Programming**: Codeforces (240+ problems solved)
+- 🔭 I’m currently working on **Fundraiser web-app**
 
-## Projects 🚧
-Here are some projects I've worked on:
-- [Portfolio](https://www.portfolio-excl.netlify.app) - A simple Portfolio website.
-- [Tic-Tac-Toe](https://excl-tictactoe.netlify.app/) - A website where you can play Tic-Tac-Toe.
-- [VitXchange](https://github.com/divy-03/vitXchange-ts) - A buy and sell platform for university students, built with the MERN stack.
-- [Dream League](https://github.com/divy-03/DreamLeague) - A sports tournament web platform that enables player registration, skill rating, team formation via auction, and more.
-- [Stock Prediction System](https://github.com/divy-03/StockPredictor) - A machine learning model that predicts stock price trends using historical data.
+- 🌱 I’m currently learning **Firebase, Nextjs, and Devops**
 
-## Learning Goals 📚
-I'm currently focusing on:
-- Advancing my competitive programming skills
-- Exploring Three.js and Next.js for immersive web experiences
-- Learning more about application development and DevOps practices
+- 👯 I’m looking to collaborate on [KickBid](https://github.comm/divy-03/kickbid-client-js)
 
-## Connect with Me 🌐
-- **LinkedIn**: [Divy Pathak](https://www.linkedin.com/in/divy-pathak-318599250/)
-- **CodeForces**: [excl](https://codeforces.com/profile/excl)
-- **Instagram**: [@pathakdivy03](https://www.instagram.com/pathakdivy03/)
-- **GitHub**: [divy-03](https://github.com/divy-03)
+- 🤝 I’m looking for help with **Socket.io**
 
-## Let's Learn and Code Together! 🚀
-I'm open to collaborations and always up for learning new things. If you share similar interests or have exciting projects in mind, feel free to connect!
+- 👨‍💻 All of my projects are available at [https://portfolio-divy.netlify.app/](https://portfolio-divy.netlify.app/)
 
-Happy coding! 😊
+- 💬 Ask me about **ReactJS, TypeScript, or Sass**
+
+- 📫 How to reach me **pathakdivy03@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1avT2vcPYA0DWolufzNVXA24dembxAZyF/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/divy pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divy pathak" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/excl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="excl" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pathakdivy03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pathakdivy03" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divy-03&show_icons=true&locale=en&layout=compact" alt="divy-03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divy-03&" alt="divy-03" /></p>
