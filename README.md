@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pathakdivy03@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1avT2vcPYA0DWolufzNVXA24dembxAZyF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/divy-03/Resume/blob/main/Resume2.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
