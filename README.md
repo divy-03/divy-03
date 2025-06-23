@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divy-03&label=Profile%20views&color=0e75b6&style=flat" alt="divy-03" /> </p>
 
-- 🔭 I’m currently working on **Fundraiser web-app**
+- 🔭 I’m currently working on **Car - App**
 
-- 🌱 I’m currently learning **Firebase, Nextjs, and Devops**
+- 🌱 I’m currently learning **NextAuth, Nextjs, and Devops**
 
 - 👯 I’m looking to collaborate on [KickBid](https://github.comm/divy-03/kickbid-client-js)
 
