@@ -1,8 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divy-03&label=Profile%20views&color=0e75b6&style=flat" alt="divy-03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divy-03" alt="divy-03" /></a> </p>
+<h3 align="center">Hi, I'm Divy Pathak</h3>
 
 - 🔭 I’m currently working on [Ai-Car-Marketplace](https://github.com/divy-03/car-app)
 
