@@ -28,14 +28,13 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
         run: python today.py
-      - name: Commit
+      - name: Commit and Push Changes
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        run: |-
+        run: |
           git add .
-          git diff
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git commit -m "Updated README" -a || echo "No changes to commit"
-          git pull --rebase origin main || git rebase --abort
-          git push https://x-access-token:${ACCESS_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+          git pull --rebase origin main || (git rebase --abort && echo "Rebase conflict — aborted safely")
+          git push https://x-access-token:${ACCESS_TOKEN}@github.com/${{ github.repository }}.git HEAD:main || echo "Push failed — ignored"
