@@ -60,7 +60,7 @@ text, tspan {white-space: pre;}
 <tspan x="550" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C++, JavaScript, TypeScript, Python, C</tspan>
 <tspan x="550" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, Markdown</tspan>
 <tspan x="550" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi, Japanese</tspan>
-<tspan x="550" y="270" class="keyColor">Typing</tspan>.<tspan class="keyColor">Speed</tspan>: <tspan class="valueColor">120</tspan>
+<tspan x="550" y="270" class="keyColor">Typing</tspan>.<tspan class="keyColor">Speed</tspan>: <tspan class="valueColor">150 WPM</tspan>
 <tspan x="550" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Music Production, Linux Ricing </tspan>
 <tspan x="550" y="310" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Football, Piano</tspan>
 <tspan x="550" y="340" class="keyColor">Contact</tspan>:
@@ -70,7 +70,7 @@ text, tspan {white-space: pre;}
 <tspan x="550" y="410" class="keyColor">Codeforces</tspan>: <tspan class="valueColor">excl</tspan>
 <tspan x="550" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="550" y="470">——————</tspan>
-<tspan x="550" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">94</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">31</tspan>}  | <tspan class="keyColor">Issues</tspan>: <tspan class="valueColor">13</tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">6</tspan>
+<tspan x="550" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">95</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">31</tspan>}  | <tspan class="keyColor">Issues</tspan>: <tspan class="valueColor">13</tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">6</tspan>
 
 </text>
 
