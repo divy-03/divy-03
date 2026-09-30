@@ -1,0 +1,41 @@
+name: Update README SVG
+
+on:
+  schedule:
+    - cron: '30 18 * * *' # 18:30 UTC = 00:00 IST
+  workflow_dispatch: # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write # lets GITHUB_TOKEN push the updated SVG
+
+concurrency:
+  group: update-readme
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Refresh SVG values
+        run: node scripts/update-svg.mjs dark_mode.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        # Also runs when one data source failed, so the values that did refresh still get pushed.
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "Divy Pathak"
+          git config user.email "127951881+divy-03@users.noreply.github.com"
+          git add dark_mode.svg
+          if git diff --staged --quiet; then
+            echo "SVG unchanged, nothing to commit"
+            exit 0
+          fi
+          git commit -m "Updated Readme"
+          git push
